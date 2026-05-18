@@ -1,0 +1,6 @@
+{
+  "name": "Matcha Tasks",
+  "description": "Una plataforma de calendario de tareas con estética lúdica y orgánica inspirada en 'So Matcha', con inicio de sesión y base de datos en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
